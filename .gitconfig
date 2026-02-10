@@ -1,0 +1,16 @@
+[user]
+    name = Anirudha Malik
+    email = your@email.com
+
+[core]
+    editor = code --wait
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    cm = commit -m
+    lg = log --oneline --graph --decorate
+
+[pull]
+    rebase = true
